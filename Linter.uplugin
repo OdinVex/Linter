@@ -3,7 +3,7 @@
 	"Version": 10,
 	"VersionName": "2.3",
 	"FriendlyName": "Linter",
-	"Description": "An attempt to make Unreal Engine projects more consistent",
+	"Description": "An attempt to make Unreal Engine projects more consistent.",
 	"Category": "Other",
 	"CreatedBy": "Michael Allar",
 	"CreatedByURL": "https://gamemak.in",
